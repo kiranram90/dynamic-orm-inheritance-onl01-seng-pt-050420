@@ -32,7 +32,7 @@ we make them available to that class or instance.
 
 ## The Child Class
 
-Go ahead and open up `lib/song.rb`. Notice that the `Song` class *inherits* from
+Go ahea and open up `lib/song.rb`. Notice that the `Song` class *inherits* from
 `InteractiveRecord`. This means that *all* of the methods defined in
 `InteractiveRecord` are available to `Song`.
 
